@@ -1,0 +1,9 @@
+{
+  "name": "my-ts-practice",
+  "version": "1.0.0",
+  "description": "I wish you success",
+  "main": "index.js",
+  "repository": "git@github.com:monsat/first-typescript-lesson.git",
+  "author": "TANAKA Kohji <tanaka.kohji@gmail.com>",
+  "license": "MIT"
+}
