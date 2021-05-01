@@ -1,4 +1,4 @@
-export const greet = (name: string) => `Hello ${name} san!`
+export const greet = (name: string): string => `Hello ${name} san!`
 
 export const delayMillis = (delayMs: number): Promise<void> => new Promise(resolve => setTimeout(resolve, delayMs))
 
